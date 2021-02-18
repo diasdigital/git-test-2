@@ -10,6 +10,7 @@
 
 <body>
    <h1>Hello World</h1>
+   <p>Ini paragraf yang dot php</p>
 </body>
 
 </html>
