@@ -11,6 +11,11 @@
 <body>
    <h1>Hello World</h1>
    <p>Ini paragraf yang dot php</p>
+   <ul>
+      <li>1</li>
+      <li>2</li>
+      <li>3</li>
+   </ul>
 </body>
 
 </html>
